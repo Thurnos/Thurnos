@@ -1,69 +1,122 @@
-<!-- THURNOS // GitHub Profile README -->
+<!--
+  THURNOS | Minecraft-inspired GitHub Profile
+  Repo: https://github.com/Thurnos/Thurnos
+  All assets in /assets must be committed together with this README.
+-->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=THURNOS&fontColor=FFFFFF&fontSize=65&fontAlignY=37&animation=fadeIn&desc=BACKEND%20ENGINEERING%20%7C%20SYSTEMS%20DESIGN%20%7C%20DEVOPS&descSize=17&descAlignY=60" alt="Thurnos profile banner" />
+  <img src="./assets/overworld-banner.svg" width="100%" alt="THURNOS - Pixel art gaming themed profile header" />
 
-  <a href="https://github.com/Thurnos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=52&lines=Building+systems%2C+not+just+applications.;Java+%7C+Spring+Boot+%7C+SQL;Backend+development+%2B+DevOps;Always+learning.+Always+building." alt="Animated introduction" />
-  </a>
-
-  <p><strong>Software Developer · Java Backend · Systems & Automation</strong></p>
   <p>
-    <a href="https://github.com/Thurnos?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-    <a href="https://github.com/Thurnos"><img src="https://img.shields.io/badge/GitHub-Thurnos-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3200&pause=850&color=7EE2A0&center=true&vCenter=true&width=800&height=50&lines=Hello+world%21+Welcome+to+my+Overworld.;Java+%26+Spring+Boot+developer.;Crafting+Minecraft+plugins+%26+gameplay+systems.;Exploring+algorithms%2C+engines+%26+automation.;A+gamer+who+loves+building+things." alt="Animated developer introduction" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F_BUILDING-Backend_Systems-2f855a?style=for-the-badge&labelColor=182922" alt="Building backend systems" />
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_PASSION-Gaming_%26_Minecraft-3e8b6f?style=for-the-badge&labelColor=182922" alt="Gaming and Minecraft" />
+    <img src="https://img.shields.io/badge/%F0%9F%A7%A0_EXPLORING-Algorithms_%26_Engines-247e91?style=for-the-badge&labelColor=182922" alt="Algorithms and engines" />
   </p>
 </div>
 
----
+### 🟩 `player.info` — About me
 
-### `> whoami`
+Hey! I'm **Thurnos** — a developer and a lifelong gamer who loves turning ideas into actual systems. I enjoy **building web applications** (especially backend architecture), experimenting with **software development**, and figuring out how complex systems work under the hood.
 
-I'm a software developer focused on **Java backend engineering**, **databases**, and **building complete systems** from the ground up. I enjoy designing architecture, solving challenging problems, and turning ambitious ideas into working software.
-
-- 🔧 **Core focus:** Java, Spring Boot, REST APIs, Hibernate/JPA, SQL
-- ☁️ **Exploring:** Azure, Docker, Linux, CI/CD, monitoring and DevOps
-- 🧠 **Interested in:** Algorithms, system design, automation and scalable applications
-- 🚀 **Currently building:** A coffee shop / bakery POS platform with Java, Spring Boot, React and MySQL
-- 🎓 **Background:** Informatics and software technologies
-
-### `> tech_stack --list`
+- 🌐 **Main quest:** Web development, especially **Java / Spring Boot backend**, APIs, databases and full-stack applications.
+- 🎮 **Favorite biome:** Gaming and **Minecraft** — developing **custom server plugins**, exploring **mod development**, and designing progression, economy, skills and gameplay mechanics.
+- ⚙️ **Side quests:** Desktop/software projects, automation, **algorithm research**, simulations, system architecture and experimenting with **custom engines**.
+- 🐍 **Also crafting with:** Python and C++ for scripting, tools and problem-solving.
+- 🧪 **Currently exploring:** DevOps, Linux, containers, cloud infrastructure, monitoring and game systems.
+- 📍 **Spawn point:** Bulgaria 🇧🇬
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,python,cpp,react,ts&perline=9" alt="Languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,azure,git,github,githubactions,idea,vscode,postman&perline=9" alt="DevOps and developer tools" />
+  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
 </div>
 
-### `> ls featured-projects/`
+### 🧰 `inventory.open` — My tech stack
 
-| Project | What it demonstrates |
-| :-- | :-- |
-| 📚 **[Library Management System](https://github.com/Thurnos/Library-Management)** | Java / Spring Boot application for library operations, with book inventory, borrowing and management workflows. |
-| 🚚 **[Logistic Company](https://github.com/Thurnos/Logistic_Company)** | Web-based project built with Spring Boot. |
-| 🏠 **[House Manager](https://github.com/Thurnos/House-Manager)** | Java application using Hibernate for persistence. |
+**Languages & fundamentals**
 
-> **In development:** Coffee / Bakery POS — an end-to-end restaurant sales and order-management platform.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css&perline=8" alt="Java, Python, C++, C#, JavaScript, TypeScript, HTML and CSS" />
+</p>
 
-### `> git stats --user Thurnos`
+**Backend, frontend & frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,vite,bootstrap,maven,gradle&perline=8" alt="Spring, React, Vite, Bootstrap, Maven, Gradle" />
+</p>
+
+`Spring Boot` · `Spring Security` · `Spring MVC` · `Hibernate` · `JPA` · `REST APIs` · `Thymeleaf` · `React` · `Vite` · `Bootstrap`
+
+**Databases & SQL**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" alt="MySQL and PostgreSQL" />
+</p>
+
+`MySQL` · `PostgreSQL` · `Microsoft SQL Server` · `Oracle Database` · `PL/SQL` · `SQL` · `Schema Design` · `ORM / JPA`
+
+**Infrastructure, cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,kubernetes,azure,git,github,githubactions,gitlab,grafana,prometheus&perline=8" alt="Linux, Ubuntu, Bash, Docker, Kubernetes, Azure, Git, GitHub, Actions, GitLab, Grafana, Prometheus" />
+</p>
+
+`Linux` · `Bash` · `Docker` · `Kubernetes` · `Azure App Service` · `Azure DevOps` · `CI/CD` · `GitHub Actions` · `Monitoring` · `Prometheus` · `Grafana`
+
+**Tools, game development & experiments**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,unity&perline=8" alt="IntelliJ IDEA, VS Code, Postman, Unity" />
+</p>
+
+`IntelliJ IDEA` · `VS Code` · `Postman` · `Unity` · `Minecraft Paper / Bukkit / Spigot APIs` · `Fabric / Modding (exploring)` · `Game Systems` · `Custom Plugins`
+
+> The inventory includes both tools I've worked with and technologies I'm actively exploring — not a claim that I've mastered every item.
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Thurnos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=58A6FF" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thurnos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top languages" />
+  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
 </div>
 
-### `> contributions --animate`
+### ⛏️ `quests.active` — What I build
+
+| Quest | Description | Category |
+| :--- | :--- | :--- |
+| 🧱 **Minecraft plugin development** | Custom Java server plugins, player progression, RPG-style mechanics, PvP ideas, economies, and connected gameplay systems. | `Java` `Paper` `Game Systems` |
+| 📚 **[Library Management System](https://github.com/Thurnos/Library-Management)** | Full-featured library management web application with business logic, persistence, security and multiple modules. | `Java` `Spring Boot` `MySQL` |
+| ☕ **Coffee / Bakery POS** | Tablet-friendly point-of-sale platform with product catalog, order workflows, persisted sales and receipt printing. **In development.** | `Java` `Spring Boot` `React` `MySQL` |
+| 🚚 **[Logistic Company](https://github.com/Thurnos/Logistic_Company)** | Backend and web-development project exploring business workflows. | `Java` `Spring Boot` |
+| 🏠 **[House Manager](https://github.com/Thurnos/House-Manager)** | Software project exploring application structure and database persistence. | `Java` `Hibernate` |
+| 🧠 **Algorithms & custom engines** | Exploring scheduling, simulation, optimization, complex system rules and engine architecture. | `Algorithms` `Systems` `Research` |
+
+### 🎮 `dimension.minecraft` — Beyond the code
+
+Minecraft is more than a game for me — it's a sandbox for experimenting with **software engineering**. I enjoy designing interconnected systems that create interesting gameplay: **custom Java plugins**, progression trees, classes, mechanics, automation and all the logic behind them. I'm also interested in the modding side of the Minecraft ecosystem.
+
+I'm especially drawn to projects that grow into big engineering rabbit holes: simulation, algorithm design, custom engines, and making separate components work together reliably.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thurnos/Thurnos/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contributions" />
+  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
 </div>
 
-<!-- The contribution snake appears only after .github/workflows/snake.yml runs successfully and publishes the output branch. -->
-
-### `> echo $MOTTO`
+### 📊 `advancements.stats` — Player statistics
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thurnos&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=76df9c&icon_color=76df9c&text_color=ccd6d3" alt="Thurnos GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurnos&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=76df9c&text_color=ccd6d3&langs_count=8" alt="Thurnos most-used GitHub languages" />
+</div>
 
-  *"Learn deeply. Build deliberately. Keep improving."*
+### 🐍 `world.tick` — Contribution snake
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0D1117,50:1F6FEB,100:8B5CF6" alt="Footer" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thurnos/Thurnos/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake; generated by the included GitHub Actions workflow" />
+</div>
+
+> The contribution snake appears after you run the included GitHub Actions workflow for the first time. Third-party statistics/typing services may occasionally be rate-limited or unavailable.
+
+<div align="center">
+  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
+  <p><b>Achievement unlocked:</b> <i>Never stop building.</i> 🏆</p>
+  <a href="https://github.com/Thurnos?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2f855a?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </div>

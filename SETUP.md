@@ -1,14 +1,19 @@
-# Set up your Minecraft-inspired GitHub profile
+# Install your cozy Minecraft-themed GitHub profile
 
-1. On GitHub, create a **public repository named exactly `Thurnos`** under the `Thurnos` account. Add a README when creating it.
-2. Download this ZIP, extract it, and upload the included **README.md**, the entire **assets/** folder, and **.github/workflows/snake.yml** to the root of your `Thurnos` repository. You must preserve the folder paths. Commit to your default branch.
-3. Visit `https://github.com/Thurnos` to see the redesigned profile.
-4. To activate the contribution snake, open `Thurnos/Thurnos` -> **Actions** -> **Generate contribution snake** -> **Run workflow**.
-5. After the workflow completes, the snake image will be published to the `output` branch. Reload your profile.
+1. Open https://github.com/Thurnos/Thurnos . If that profile repository does not exist, create a **public** repository named exactly `Thurnos`.
+2. Upload `README.md` and the entire `assets/` folder from this package to the root of the repository, preserving their paths. Replace the existing README and outdated banner assets if you wish.
+3. Commit the changes to your default branch and refresh https://github.com/Thurnos .
 
-### Important notes
-- The `assets/overworld-banner.svg` and `assets/pixel-divider.svg` images are **original block-inspired pixel art** and don't require an external image host. The PNG in `assets/` is just a preview and isn't required in the GitHub repository.
-- Third-party icons and animated statistics rely on their external services being available.
-- Customize project descriptions/tech areas to reflect what you actually use. The Minecraft modding section is marked as an interest/exploration.
-- If the GitHub Actions workflow can't publish, check **Settings > Actions > General > Workflow permissions**, allow **Read and write permissions** for `GITHUB_TOKEN` if required, save, and rerun.
-- The profile README only displays when the repository is public, named exactly the same as your GitHub username, and contains a README at its root.
+## Files
+
+- `README.md` — the complete profile content; no tables, stats widgets, snake animation, or currently-working-on section.
+- `assets/cozy-overworld-banner.png` — your new original, warm Minecraft-inspired banner.
+- `assets/grass-divider.svg` — understated grass-block ornament.
+
+## Important: FreezeBg skin
+
+The profile uses a *live* skin image at `https://mc-heads.net/player/FreezeBg/180`, with a link to the FreezeBg NameMC profile. This ensures the avatar reflects the skin associated with that account rather than a guessed character drawn into a static banner. The skin renderer requires internet access; if it is unavailable, the rest of your profile remains intact. For an entirely self-contained profile, save your actual skin PNG or a render in `assets/` and change the image source to that file.
+
+## Edit content
+
+The `README.md` is regular GitHub-flavored Markdown and GitHub-compatible HTML. Edit any technologies or project descriptions as your experience changes. `skillicons.dev` supplies technology icons as a third-party image service; you can remove those image lines without affecting the text list.

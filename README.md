@@ -1,122 +1,95 @@
 <!--
-  THURNOS | Minecraft-inspired GitHub Profile
-  Repo: https://github.com/Thurnos/Thurnos
-  All assets in /assets must be committed together with this README.
+  Personal profile for github.com/Thurnos
+  Keep assets/ alongside this README.md.
+  The FreezeBg skin render is provided dynamically by MCHeads.
 -->
 
 <div align="center">
-  <img src="./assets/overworld-banner.svg" width="100%" alt="THURNOS - Pixel art gaming themed profile header" />
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3200&pause=850&color=7EE2A0&center=true&vCenter=true&width=800&height=50&lines=Hello+world%21+Welcome+to+my+Overworld.;Java+%26+Spring+Boot+developer.;Crafting+Minecraft+plugins+%26+gameplay+systems.;Exploring+algorithms%2C+engines+%26+automation.;A+gamer+who+loves+building+things." alt="Animated developer introduction" />
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/%E2%9B%8F%EF%B8%8F_BUILDING-Backend_Systems-2f855a?style=for-the-badge&labelColor=182922" alt="Building backend systems" />
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_PASSION-Gaming_%26_Minecraft-3e8b6f?style=for-the-badge&labelColor=182922" alt="Gaming and Minecraft" />
-    <img src="https://img.shields.io/badge/%F0%9F%A7%A0_EXPLORING-Algorithms_%26_Engines-247e91?style=for-the-badge&labelColor=182922" alt="Algorithms and engines" />
-  </p>
+  <img src="./assets/cozy-overworld-banner.png" alt="Thurnos — warm Minecraft-inspired riverside cottage at sunset" width="100%" />
+  <br />
+  <h3>Backend &amp; Web Development · Software Engineering · Game Systems</h3>
+  <p>Building thoughtful software, from web applications to the systems behind games.</p>
 </div>
 
-### 🟩 `player.info` — About me
+## Hello there 🌿
 
-Hey! I'm **Thurnos** — a developer and a lifelong gamer who loves turning ideas into actual systems. I enjoy **building web applications** (especially backend architecture), experimenting with **software development**, and figuring out how complex systems work under the hood.
+<a href="https://namemc.com/profile/FreezeBg.1" title="View my Minecraft skin — FreezeBg">
+  <img align="right" src="https://mc-heads.net/player/FreezeBg/180" width="110" alt="My Minecraft skin, FreezeBg" />
+</a>
 
-- 🌐 **Main quest:** Web development, especially **Java / Spring Boot backend**, APIs, databases and full-stack applications.
-- 🎮 **Favorite biome:** Gaming and **Minecraft** — developing **custom server plugins**, exploring **mod development**, and designing progression, economy, skills and gameplay mechanics.
-- ⚙️ **Side quests:** Desktop/software projects, automation, **algorithm research**, simulations, system architecture and experimenting with **custom engines**.
-- 🐍 **Also crafting with:** Python and C++ for scripting, tools and problem-solving.
-- 🧪 **Currently exploring:** DevOps, Linux, containers, cloud infrastructure, monitoring and game systems.
-- 📍 **Spawn point:** Bulgaria 🇧🇬
+I'm **Svilen**, also known as **Thurnos** — a developer based in Bulgaria with a focus on **backend engineering and web development**.
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
-</div>
+I enjoy designing applications that are reliable, well-structured, and satisfying to build. I'm also interested in **software architecture, algorithm design, simulations, and custom-engine development**, especially where different components need to work together.
 
-### 🧰 `inventory.open` — My tech stack
+Outside of traditional software projects, gaming is a big part of my life. **Minecraft** is a particular favorite: I love the possibilities of **Java server plugins, gameplay systems, progression mechanics, and modding**. It's an excellent place to explore engineering ideas in a creative environment.
 
-**Languages & fundamentals**
+<br clear="right" />
+
+<div align="center"><img src="./assets/grass-divider.svg" alt="" width="80%" /></div>
+
+## Technologies & tools
+
+I work primarily with **Java and the Spring ecosystem**, while using other languages and tools across web, software, infrastructure, and game development.
+
+**Programming languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css&perline=8" alt="Java, Python, C++, C#, JavaScript, TypeScript, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css&perline=8" alt="Java, Python, C++, C#, JavaScript, TypeScript, HTML, CSS" />
 </p>
 
-**Backend, frontend & frameworks**
+`Java` · `Python` · `C++` · `C#` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `SQL` · `PL/SQL` · `Bash` · `PowerShell`
+
+**Backend & web development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react,vite,bootstrap,maven,gradle&perline=8" alt="Spring, React, Vite, Bootstrap, Maven, Gradle" />
 </p>
 
-`Spring Boot` · `Spring Security` · `Spring MVC` · `Hibernate` · `JPA` · `REST APIs` · `Thymeleaf` · `React` · `Vite` · `Bootstrap`
+`Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA` · `Hibernate / JPA` · `REST APIs` · `Thymeleaf` · `React` · `Vite` · `Bootstrap` · `Maven` · `Gradle`
 
-**Databases & SQL**
+**Databases & persistence**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=8" alt="MySQL and PostgreSQL" />
 </p>
 
-`MySQL` · `PostgreSQL` · `Microsoft SQL Server` · `Oracle Database` · `PL/SQL` · `SQL` · `Schema Design` · `ORM / JPA`
+`MySQL` · `PostgreSQL` · `Microsoft SQL Server` · `Oracle Database` · `PL/SQL` · `Database Design` · `SQL Optimization` · `ORM`
 
-**Infrastructure, cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,kubernetes,azure,git,github,githubactions,gitlab,grafana,prometheus&perline=8" alt="Linux, Ubuntu, Bash, Docker, Kubernetes, Azure, Git, GitHub, Actions, GitLab, Grafana, Prometheus" />
-</p>
-
-`Linux` · `Bash` · `Docker` · `Kubernetes` · `Azure App Service` · `Azure DevOps` · `CI/CD` · `GitHub Actions` · `Monitoring` · `Prometheus` · `Grafana`
-
-**Tools, game development & experiments**
+**Infrastructure, DevOps & developer tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,unity&perline=8" alt="IntelliJ IDEA, VS Code, Postman, Unity" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,azure,git,github,githubactions&perline=8" alt="Linux, Ubuntu, Docker, Kubernetes, Azure, Git, GitHub, GitHub Actions" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=gitlab,grafana,prometheus,idea,vscode,postman,unity&perline=8" alt="GitLab, Grafana, Prometheus, IntelliJ IDEA, VS Code, Postman, Unity" />
 </p>
 
-`IntelliJ IDEA` · `VS Code` · `Postman` · `Unity` · `Minecraft Paper / Bukkit / Spigot APIs` · `Fabric / Modding (exploring)` · `Game Systems` · `Custom Plugins`
+`Linux / Ubuntu` · `Git` · `GitHub` · `GitLab` · `GitHub Actions` · `CI/CD` · `Docker` · `Kubernetes` · `Azure` · `Azure App Service` · `Azure Monitor` · `Prometheus` · `Grafana` · `VirtualBox` · `IntelliJ IDEA` · `VS Code` · `Postman` · `Unity`
 
-> The inventory includes both tools I've worked with and technologies I'm actively exploring — not a claim that I've mastered every item.
+<sub>These include both technologies I've used in projects and areas I'm continuing to learn and explore.</sub>
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
-</div>
+<div align="center"><img src="./assets/grass-divider.svg" alt="" width="80%" /></div>
 
-### ⛏️ `quests.active` — What I build
+## Beyond web development
 
-| Quest | Description | Category |
-| :--- | :--- | :--- |
-| 🧱 **Minecraft plugin development** | Custom Java server plugins, player progression, RPG-style mechanics, PvP ideas, economies, and connected gameplay systems. | `Java` `Paper` `Game Systems` |
-| 📚 **[Library Management System](https://github.com/Thurnos/Library-Management)** | Full-featured library management web application with business logic, persistence, security and multiple modules. | `Java` `Spring Boot` `MySQL` |
-| ☕ **Coffee / Bakery POS** | Tablet-friendly point-of-sale platform with product catalog, order workflows, persisted sales and receipt printing. **In development.** | `Java` `Spring Boot` `React` `MySQL` |
-| 🚚 **[Logistic Company](https://github.com/Thurnos/Logistic_Company)** | Backend and web-development project exploring business workflows. | `Java` `Spring Boot` |
-| 🏠 **[House Manager](https://github.com/Thurnos/House-Manager)** | Software project exploring application structure and database persistence. | `Java` `Hibernate` |
-| 🧠 **Algorithms & custom engines** | Exploring scheduling, simulation, optimization, complex system rules and engine architecture. | `Algorithms` `Systems` `Research` |
+**Minecraft & game development**  
+Creating custom Minecraft server plugins with **Java** and the **Paper / Spigot / Bukkit** ecosystem; designing RPG mechanics, skills, economies, progression, and connected multiplayer systems. I'm also interested in Minecraft modding and game development with Unity.
 
-### 🎮 `dimension.minecraft` — Beyond the code
+**Algorithms & software systems**  
+Exploring scheduling and control algorithms, simulation, optimization, system design, and the architecture of custom engines. I especially enjoy engineering challenges that connect many small parts into one coherent system.
 
-Minecraft is more than a game for me — it's a sandbox for experimenting with **software engineering**. I enjoy designing interconnected systems that create interesting gameplay: **custom Java plugins**, progression trees, classes, mechanics, automation and all the logic behind them. I'm also interested in the modding side of the Minecraft ecosystem.
+**Infrastructure & automation**  
+Learning more about Linux, cloud services, build pipelines, monitoring, and deployment — the tools that help applications run reliably beyond the IDE.
 
-I'm especially drawn to projects that grow into big engineering rabbit holes: simulation, algorithm design, custom engines, and making separate components work together reliably.
+## Selected repositories
 
-<div align="center">
-  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
-</div>
+- 📚 **[Library Management System](https://github.com/Thurnos/Library-Management)** — A Java / Spring Boot application with persistence, security, and multiple business modules.
+- 🚚 **[Logistic Company](https://github.com/Thurnos/Logistic_Company)** — An application exploring business workflows and backend design.
+- 🏠 **[House Manager](https://github.com/Thurnos/House-Manager)** — An application exploring software organization and data persistence.
 
-### 📊 `advancements.stats` — Player statistics
+For more code, experiments, and ideas, explore my [GitHub repositories](https://github.com/Thurnos?tab=repositories).
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thurnos&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=76df9c&icon_color=76df9c&text_color=ccd6d3" alt="Thurnos GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thurnos&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=76df9c&text_color=ccd6d3&langs_count=8" alt="Thurnos most-used GitHub languages" />
-</div>
-
-### 🐍 `world.tick` — Contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Thurnos/Thurnos/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake; generated by the included GitHub Actions workflow" />
-</div>
-
-> The contribution snake appears after you run the included GitHub Actions workflow for the first time. Third-party statistics/typing services may occasionally be rate-limited or unavailable.
-
-<div align="center">
-  <img src="./assets/pixel-divider.svg" width="100%" alt="Pixel-art divider" />
-  <p><b>Achievement unlocked:</b> <i>Never stop building.</i> 🏆</p>
-  <a href="https://github.com/Thurnos?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-2f855a?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <img src="./assets/grass-divider.svg" alt="" width="80%" />
+  <p><i>Thanks for visiting. May your code compile and your worlds keep growing. 🌲</i></p>
 </div>

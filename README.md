@@ -81,14 +81,6 @@ Exploring scheduling and control algorithms, simulation, optimization, system de
 **Infrastructure & automation**  
 Learning more about Linux, cloud services, build pipelines, monitoring, and deployment — the tools that help applications run reliably beyond the IDE.
 
-## Selected repositories
-
-- 📚 **[Library Management System](https://github.com/Thurnos/Library-Management)** — A Java / Spring Boot application with persistence, security, and multiple business modules.
-- 🚚 **[Logistic Company](https://github.com/Thurnos/Logistic_Company)** — An application exploring business workflows and backend design.
-- 🏠 **[House Manager](https://github.com/Thurnos/House-Manager)** — An application exploring software organization and data persistence.
-
-For more code, experiments, and ideas, explore my [GitHub repositories](https://github.com/Thurnos?tab=repositories).
-
 <div align="center">
   <img src="./assets/grass-divider.svg" alt="" width="80%" />
   <p><i>Thanks for visiting. May your code compile and your worlds keep growing. 🌲</i></p>
